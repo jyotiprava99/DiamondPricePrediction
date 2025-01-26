@@ -93,11 +93,7 @@ Once you have the web application running, you can use it to predict the price o
 
 Additionally, you can explore the Jupyter notebooks named `EDA` and `Model Training` in the `notebooks` directory to understand the data analysis and model development process.
 
-## Screenshots
 
-<img width="1440" alt="Screenshot 2023-10-16 at 8 32 10 PM (2)" src="https://github.com/rachitdani/Diamond-Price-Prediction-Project/assets/79761144/4b97e05a-4162-4ab4-912a-85647ee31496">
-
-![Screenshot 2023-10-16 at 8 34 50 PM](https://github.com/rachitdani/Diamond-Price-Prediction-Project/assets/79761144/46e56541-1190-4f60-84f2-3a239de5a286)
 
 
 
